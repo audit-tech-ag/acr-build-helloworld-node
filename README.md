@@ -1,3 +1,4 @@
+![Linux_Container_Workflow](https://github.com/audit-tech-ag/acr-build-helloworld-node/workflows/Linux_Container_Workflow/badge.svg)
 ---
 page_type: sample
 languages:
